@@ -1,0 +1,20 @@
+Name: Ayobami Adewale
+
+1) The purpose of the pivot is to compare the rest of the elements to it.
+    if the elements are larger than the pivot, they are moved to the right of the pivot
+    and the left if they are smaller. Picking any position of the pivot does not change the
+    results because the list is unsorted.
+
+2) * using 0 as the k will return the smallest number in the list
+   * Using the length of the list - 1 will return the largest number in the list
+   * Using the length of the list - n will the the n largest number in the list
+
+3) Quick Select:
+    Trial 1: 0.005220890045166016
+    Trial 2: 0.008891105651855469
+    Trial 3: 0.00522613525390625
+
+    Median Program:
+    Trial 1: 0.023977994918823242
+    Trial 2: 0.02344512939453125
+    Trial 3: 0.026880979537963867
