@@ -3,7 +3,7 @@ File: ball_puzzle.py
 Assignment: Lab
 Language: Python 3
 Author: Ayobami Adewale<aea8506@rit.edu>
-Purpose: Sorts certain color balls in their respective can
+Purpose: Sorts certain color balls in their respective canR
 """
 
 from ball_puzzle_animate import *
