@@ -189,6 +189,7 @@ def draw_rectangle(text):
     """
     length = get_num(text)
     text = text[len(length):]
+    width = 0
     if text[0] == ',':
         width = get_num(text[1:])
 
