@@ -22,8 +22,7 @@ class Stack:
 def make_empty_stack():
     """
     Returns a new stack with size initialized to zero and
-    nodes initialed to the empty list.
-    """
+      """
     return Stack(0, None)
 
 
